@@ -3,7 +3,7 @@
 <p><em>SDET QA Test Automation Engineer from India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/visheshgupta0807199](https://github.com/visheshgupta0807199)
+- 👨‍💻 All of my projects are available at [https://github.com/visheshgupta08071992](https://github.com/visheshgupta08071992)
 
 - 💬 Ask me about **Java,Selenium,RestAssured,SpringBoot,Microservices,Contract Testing and TestAutomation**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vishesh-gupta-30176489/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://github.com/visheshgupta0807199" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vishesh-gupta-30176489/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://github.com/visheshgupta08071992" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
