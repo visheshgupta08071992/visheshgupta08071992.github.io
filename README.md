@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊**
 
-### 📄 Do read my resume here: :point_right: [Click Here](https://github.com/visheshgupta08071992/resume/blob/main/CV_Vishesh_Gupta.pdf)💥
+### 📄 Do read my resume here:: [Click Here](https://github.com/visheshgupta08071992/resume/blob/main/CV_Vishesh_Gupta.pdf)💥
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
