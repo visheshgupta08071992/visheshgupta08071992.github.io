@@ -1,4 +1,6 @@
 title: Vishesh Gupta # your name (or website title) here
- <br><br>
-  <a href="mailto:vishesh.gupta20@ymail.com">aashima.ahuja811@gmail.com </a>
+ description: > # your text below (remove <br> elements if you don't need line breaks)
+ Senior SDET QA Test Automation Engineer
+  <br><br>
+  <a href="mailto:vishesh.gupta20@ymail.com">vishesh.gupta20@ymail.com </a>
 theme: jekyll-theme-minimal
